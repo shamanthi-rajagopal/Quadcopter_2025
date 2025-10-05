@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Drone_Project")(type "KiCad")(uri "${KIPRJMOD}/Drone_Project.kicad_sym")(options "")(descr ""))
+  (lib (name "Drone_Project_Library")(type "KiCad")(uri "${KIPRJMOD}/Drone_Project_Library.kicad_sym")(options "")(descr ""))
+)

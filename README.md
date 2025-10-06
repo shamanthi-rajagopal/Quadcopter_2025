@@ -10,7 +10,7 @@ Currently Working On:
 
 Completed Tasks:
 - Electric Schematic (KiCAD) Version 1 completed - Oct/05/2025
-- Initial Drone Design / Component Wiring / Drone Components & Dimensions - Sept/28/2025
+- Initial Drone Design / Component Wiring Plan / Drone Components & Dimensions Research - Sept/28/2025
 
 
 
